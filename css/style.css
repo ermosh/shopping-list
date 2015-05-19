@@ -1,0 +1,40 @@
+/*"Fredmeyer edit 1" by Original: lyzadangerDerivative work: Diliff - http://www.flickr.com/photos/lyza/49545547. Licensed under CC BY-SA 2.0 via Wikimedia Commons - http://commons.wikimedia.org/wiki/File:Fredmeyer_edit_1.jpg#/media/File:Fredmeyer_edit_1.jpg*/
+
+body {
+	background-image: url("../1200px-Fredmeyer_edit_1.jpg");
+	background-size: cover;
+	font-size: 1.5em;
+}
+
+.container {
+	width: 20em;
+	margin: 0 auto;
+	background-color: white;
+	border: 1px solid black;
+	border-radius: 1em;
+}
+
+.add-here {
+	text-align: center;
+	margin: 25px 0px;
+}
+
+#add-button {
+	background-color: #99FF99;
+}
+
+#grocery-trip, #to-buy {
+	margin-top: 1.5625em;
+}
+
+#shelf, #cart {
+	list-style-type: none;
+}
+
+#cart li {
+	text-decoration: line-through;
+}
+
+#cart input {
+	margin-right: .625em;
+}
